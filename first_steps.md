@@ -7,12 +7,12 @@
 
 ## Create a local repo on your computer (clone of the repo on Github)
 > リモートリポジトリをcloneして自分のパソコンでローカルリポジトリを作る
-- Go to the repo you just created on Github. Get the URL of your repo by clicking the code button in green
+- Go to the repo you just created on Github. Get the URL of your repo by clicking the code button in green.
 
   ![repo-url.png](images/repo-url.png)
-- Open terminal on your computer, see which directory you're currently on by using command ```$ pwd```
-```$ cd directory_name``` to the directory you want to save the repo to.
-- Use command ```$ git clone your_repo_url``` to clone the repo to your computer. This will be your ```local repository```.
+- Open terminal on your computer, see which directory you're currently on by using command ```$ pwd```.
+- Use ```$ cd directory_name``` to move to the directory you want to save the repo to.
+- Use command ```$ git clone your_repo_url``` to clone the repo to your computer. This will be your **local repository**.
 
 ## Basic commands for status check
 - ```$ pwd```: to check which directory (in your computer) you're currently on.

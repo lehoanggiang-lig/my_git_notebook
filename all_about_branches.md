@@ -35,7 +35,7 @@
 - Move to the directory you want to create a branch in by using ``` $ cd directory_name```.
 - See a list of all branches in that directory, as well as check which branch you're on, by using ```$ git branch``` or ```$ git branch -a```.
 - Move to the branch you want to create a new branch in by using ```$ git checkout branch_name```.
-- Create a new branch by using ```$git checkout -b new_branch-name```.
+- Create a new branch by using ```$git checkout -b new_branch_name```.
 - Use ```$ git branch``` or ```$ git branch -a``` to check if the new branch was created.
 - Register your newly created branch to your remote repo by using ```$ git push -u origin```.
 

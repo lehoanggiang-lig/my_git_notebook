@@ -7,9 +7,17 @@ To upload files to a remote repo, you first need to register that repo's URL
 
 ```
 Basic terms/actions in git
+
 - add: to 'select' a file/files/changes, or to create new file
+
 - commit: to 'record' a file/files/changes (prepare for push)
+
 - push: to 'upload' a file/files/changes to remote repo
+
+- fetch: to get the latest version from remote to local, without automatic merge
+
+- merge: to integrate your current directory with the selected directory
+
 - pull: to 'fetch' the latest version of the project from remote repo then 'merge' to your local repo
 ```
 
